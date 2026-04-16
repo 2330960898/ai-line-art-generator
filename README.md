@@ -56,7 +56,7 @@ The **SPAI Ancient Chinese Style Line Art Generator** is a cutting-edge AI tool 
 | ![工笔花鸟](https://img.sipingseo.com/file/gufeng-line-art/aFOUbb9Y.webp) | ![工笔禽鸟](https://img.sipingseo.com/file/gufeng-line-art/8mS9alHv.webp) |
 
 #### 3. 山水与古建 (Landscape & Architecture)
-准确绘制山石皴法、古建斗拱，线条疏密有致，远近层次分明。
+准确绘制山石皴法、古建斗拱，线条疏密有致，远近层次分明
 | 示例：高远山水 | 示例：亭台楼阁 |
 | :---: | :---: |
 | ![山水线稿](https://img.sipingseo.com/file/gufeng-line-art/3a5j6AP1.webp) | ![建筑界画](https://img.sipingseo.com/file/gufeng-line-art/A0FSPlAG.webp) |
