@@ -44,7 +44,7 @@ The **SPAI Ancient Chinese Style Line Art Generator** is a cutting-edge AI tool 
 我们的 AI 模型可以处理多种复杂的传统艺术题材：
 
 #### 1. 白描人物与仕女 (Bai Miao Portraits)
-精准捕捉东方女性的婉约风韵，线条纤细柔美，符合“游丝描”等经典技法。
+精准捕捉东方女性的婉约风韵，线条纤细柔美，符合“游丝描”等经典技法
 | 示例：唐代仕女 | 示例：古典名媛 |
 | :---: | :---: |
 | ![白描人物](https://img.sipingseo.com/file/gufeng-line-art/Emkcb0nv.webp) | ![仕女线稿](https://img.sipingseo.com/file/gufeng-line-art/BYmo8tCV.webp) |
