@@ -19,7 +19,7 @@ The **SPAI Ancient Chinese Style Line Art Generator** is a cutting-edge AI tool 
 
 ### Key Features
 *   **✨ Text-to-Sketch:** Generate intricate line art from simple text descriptions
-*   **🎭 Authentic Styles:** Choose from specialized models like "Ink Rhythm Lines," "Bai Miao Master," and "Landscape Mood."
+*   **🎭 Authentic Styles:** Choose from specialized models like "Ink Rhythm Lines," "Bai Miao Master," and "Landscape Mood"
 *   **⚡ Ultra-Fast Rendering:** Get high-quality sketches in 15-30 seconds
 *   **📦 High-Definition Export:** Supports up to 4K resolution output for printing or professional design.
 *   **💰 100% Free & No Registration:** Accessible online anytime without cost.
