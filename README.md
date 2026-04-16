@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Ancient Chinese Style Line Art Generator** is a cutting-edge AI tool that transforms text descriptions or reference images into professional-grade traditional Chinese sketches. Whether you need **Bai Miao (fine line)**, **Gong Bi (meticulous style)**, or **Landscape (Shan Shui)** line art, our AI models provide the perfect foundation for your artistic creations.
+The **SPAI Ancient Chinese Style Line Art Generator** is a cutting-edge AI tool that transforms text descriptions or reference images into professional-grade traditional Chinese sketches. Whether you need **Bai Miao (fine line)**, **Gong Bi (meticulous style)**, or **Landscape (Shan Shui)** line art, our AI models provide the perfect foundation for your artistic creations
 
 ### Key Features
 *   **✨ Text-to-Sketch:** Generate intricate line art from simple text descriptions.
